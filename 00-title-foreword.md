@@ -17,7 +17,7 @@ _HTML version produced from Hinckley Library copy by Nick Moore in 2024_
 3. [Burbage to Wigston Parva, Sharnford and Aston (Late April)](#3)
 4. [To Higham-on-the-Hill (May)](#4)
 5. [To Paul's Ford and Burton Hastings (June)](#5)
-6. [Across Burbage Commong to the Woods and Billington Roughs (Late October)](#6)
+6. [Across Burbage Common to the Woods and Billington Roughs (Late October)](#6)
 
 ---
 
