@@ -1,5 +1,10 @@
 # To Higham-on-the-Hill (May)
 
+<figure>
+    <img src="img/29.jpg" />
+    <figcaption>The Church of Higham-on-th-Hill (South West View)</figcaption>
+</figure>
+
 A well worn path from the Hollycroft to Higham-on-the-Hill proves that this walk is still appreciated by many. Before the public baths were built it was used as a short cut to the canal, and many a pleasant pilgrimage has the writer made along this path after school hours.
 
 A little spinney of poplars once grew at the commencement of Sandy Walk where our ramble commences. A formidable fence of six strands of barbed wire, reminiscent of a prisoner's compound, now encloses what was then an open field path. But the unpleasant reminder only continues the length of one field, and soon we are in the clear, open country. On the left the sandy ploughlands dip down to the valley where rises the Battling Brook. In the days of our primitive ancestors a small lake fringed with rush and boglands filled the valley.
@@ -8,7 +13,7 @@ The path cannot be mistaken; it follows a comparatively straight course almost t
 
 Another who was burned at the stake at Lichfield during the religious persecutions of the early Seventeenth Century, was said to be the last martyr.
 
-In the cornfields hereabouts wild flowers are plentiful. The corn poppy, speedwell, fumitory, and stork's bill are already in evidence, but only the little "blue eye" is in flower. We found a hedgehog coiled up near the next hedgerow—he was so closely tucked up that we could not tell if he were alive or dead. Hedgehogs have a bad reputation for sucking the milk from reclining cows, but I have never heard of one being caught in the act. We pass the Tithe Farm on our left and keep straight on through a field below Wykin Hall full of mounds and hollows. In the hollows, with patches of juncus, the "Lady Smock" is in full bloom.
+In the cornfields hereabouts wild flowers are plentiful. The corn poppy, speedwell, fumitory, and stork's bill are already in evidence, but only the little "blue eye" is in flower. We found a hedgehog coiled up near the next hedgerow—he was so closely tucked up that we could not tell if he were alive or dead. Hedgehogs have a bad reputation for sucking the milk from reclining cows, but I have never heard of one being caught in the act. We pass the Tithe Farm on our left and keep straight on through a field below Wykin Hall full of mounds and hollows. In the hollows, with patches of _juncus_, the "Lady Smock" is in full bloom.
 
 After passing across the bridle road that runs from Wykin to the Harrow Farm we go through a wicket gate—one of the very few left in the district. The next fence marks the Hinckley Urban District boundary. Just before we reach this, we pass a spring in the hedge side. Even after the prolonged drought, we could see it bubbling up from the soil. This water has been gathered in the gravel beds forming the Wykin ridge, and on reaching the clays of the valley, comes to the surface. Like the Calybeate springs, once resorted to in Hinckley for their medicinal properties, the water is ironstained. Close by we came across the scene of a tragedy. A dead lamb that had apparently crossed a bit of bog land to reach the water and had died in its struggles to get free.
 
@@ -32,3 +37,23 @@ There is a short ridge road on the left running down to Higham Grange. The view 
 > Whence health and vigour flow."
 
 Arrived at the village of Higham one must pay a visit to the church. It has a fine Norman tower with an arcade of semi-circular arches recessed in the second story. Unfortunately the other portions of the church were pulled down and entirely rebuilt in 1790. There was once an alabaster monument in the chancel to a remarkable family named Burton who lived at Lindley Hall. For some unaccountable reason this has disappeared. Ralfe Burton, who died in 1619, had two sons—one William, who wrote the earliest history of Leicestershire, and the other, Robert, was the author of a noted work entitled "The Anatomy of Melancholy."
+
+In the churchyard, leaning against the north wall of the church, is a tombstone to the memory of Edward and Margaret Biddle, who died aged 80, two bachelor sons, John aged 80, and Henry aged 81, one married son, Robert, aged 83, and Sarah, his wife, aged 80. A fine record of longevity.
+
+There is a delightful view from the Churchyard which, unlike so many others, is well tended and kept.
+
+We decided to return to Hinckley by the Watling Street and finish the journey by 'bus from the Long Shoot. This gives us an opportunity of following a footpath running over Harper's Hill, and affords a good view of the Warwickshire country.
+
+The path commences opposite the Church and immediately descends the hill through the middle of a long, narrow field, leaving a line of electric-power poles well to the right. On this side of Higham a small mound is marked on my ordnance map as a "Tumulus (wooden cross and pottery found A.D. 1899)." I am afraid some over-zealous antiquarian badly blundered here. The late Mr. Thos. Marson, of Higham Hall, informed me that his father could remember a windmill standing on the spot. The wooden cross was doubtless the base of an old post mill covered heavily with ballast resembling a mound. My friend, Mr. T. C. Cantrill, of the Geological Survey, has revised the ordnance maps accordingly, but the error is perpetuated in the transactions of the Leicester Archæological Society.
+
+I am informed by an old inhabitant that there was another windmill on the other side of the road.
+
+At the end of the long field the path bears left in the direction of Harper's Hill—a grassy knoll crowned with a clump of trees. We cut off the corners of the two next fields, go through two gates, then by the hedge side to the Hill field. At the second gate we see the incident of a brooklet's source repeated. Like Wykin, Higham is situated on a ridge of gravel underlain on this side by clays and impervious marls. Quite a good stream rises here. At the stile leading to the hill side I met with an unusual experience. On reaching the stile I heard someone, seemingly quite close by, whistling a popular tune. I expected to meet some youths coming along the path over the rise. The whistling continued while I walked some yards, and then stopped, but no one put in an appearance, and although I searched the hedgerows there was no one to be seen. Harper's Hill is a good quarter of a mile from the main road, and I came to the conclusion that there was something in the contour of the country that carried the sound so distinctly from a distance. It left me wondering if the hill had derived its name from this curious phenomenon. I should like to hear if others have had a similar experience. Anyway I'm not going to enlarge on the incident. The "Tumulus" at Higham is enough to inspire caution in any attempt to unravel the mysteries of the past. It is quite possible that a man named John Harper may have owned the hill.
+
+From Harper's Hill one cannot mistake the hedgeside path to the Watling Street, and we reach the main road by a footbridge near to the Hollow Farm.
+
+Two treasures have been found in this neighbourhood—one in 1607 under a large stone in the middle of the Watling Street where it crosses the Higham to Nuneaton road. The hoard comprised 250 silver coins of Henry III., gold rings, parts of a massive gold chain, and a precious stone with Arabic characters. Burton, the historian, went to see them the day after they were found, and suggested that some wandering Jew had hidden them to escape robbery. Did he meet with a worse fate?
+
+The other find was near the old railway bridge on the Harrow Farm. When this line was being constructed in 1871, one of the navvies put his pick through an earthenware jar, and some hundreds of Roman silver coins rolled out into the trench—many of these were sold for a few pence each in the public houses of the town. Eight of them in mint condition are now in my collection. They are of various dates including Trajan, Vespasian, Hadrian, Antoninus, and Faustina Augusta.
+
+A short walk along the main road takes us by the entrance lodge of Higham Grange, and we soon arrive at the site of an old toll gate, at the end of the Long Shoot, where we can board a 'bus.

@@ -1,5 +1,10 @@
 ## Across the Fields to Sutton Cheney (March)
 
+<figure>
+    <img src="img/09.jpg" />
+    <figcaption>A Seventeenth Sentury House: The Hall, Sutton Cheney</figcaption>
+</figure>
+
 To go to sleep during a cheerless winter and then suddenly to wake up with the
 warmth of spring sunshine, is a pleasure denied to all but hibernating animals.
 But the greatest joy of life must surely be the experience of the first few days
@@ -65,10 +70,10 @@ In the sixth field from the road the path runs along the south side of a
 hedgerow. Although the snow-drifts have not entirely gone from the shade, the
 banks here are warming under the sunshine and all the big family of hedgerow
 plants are bursting into life again. Clusters of little annual seedlings are
-peeping through. Herbaceous plants are unfolding their radical leaves. Crepis
+peeping through. Herbaceous plants are unfolding their radical leaves. _Crepis_
 and thistle dot the banks with bright green and variegated rosettes. We pass
 over a field of a semi-bogland nature. Before the fields were systematically
-drained, there was a great deal of similar land. Juncus and sedge betray the
+drained, there was a great deal of similar land. _Juncus_ and sedge betray the
 sodden condition of the subsoil.
 
 On the higher land towards Stapleton is the supposed site of the encampment of
@@ -131,11 +136,11 @@ Chainell who, Nicholls tells us, held lands here as tenant of the Abbey of
 Croyland. The church is not an inspiring edifice although not without interest.
 Within is an alabaster tomb of a knight in armour. The inscription reads:
 
-"Heere lyeth interred the body of Sir William Roberts, knight, who in his life
-time being devoted to hospitality and charity among other remarkable works
-erected out of a pious mind an hospitale for sixe poor men adjoyneing to this
-Church-yard, and endowed it with 20 pound land yearly for their maintenance for
-ever."
+> "Heere lyeth interred the body of Sir William Roberts, knight, who in his life
+> time being devoted to hospitality and charity among other remarkable works
+> erected out of a pious mind an hospitale for sixe poor men adjoyneing to this
+> Church-yard, and endowed it with 20 pound land yearly for their maintenance for
+> ever."
 
 Thomas Simpson, the prodigy of Market Bosworth, lies buried in the churchyard
 "after rending asunder the fetters of indigence" he became an eminent
