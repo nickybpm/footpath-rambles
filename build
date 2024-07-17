@@ -5,7 +5,7 @@ echo
 ## iterate though all md files
 for file in *.md; do
   cat $file | ./Markdown.pl
-  echo
+  echo "<hr>"
 done
 cat template_after.html
 echo
