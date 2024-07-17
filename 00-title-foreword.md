@@ -6,7 +6,7 @@ Reprinted from the "Hinckley Times and Guardian" of 1929
 
 Pen and Ink Sketches by Cicely Pickering
 
-_HTML version produced from Hinckley Library copy by Nick Moore in 2024_
+_HTML version produced from Hinckley Library copy by Nick Moore in 2024. Email: <nick@nickmoore.net>_
 
 ---
 
