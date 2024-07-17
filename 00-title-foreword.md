@@ -13,7 +13,7 @@ _HTML version produced from Hinckley Library copy by Nick Moore in 2024_
 ### List of Rambles
 
 1. [Across the Fields to Sutton Cheney (March)](#1)
-2. [To Stapleton and Kirkby Mallory (Earl April)](#2)
+2. [To Stapleton and Kirkby Mallory (Early April)](#2)
 3. [Burbage to Wigston Parva, Sharnford and Aston (Late April)](#3)
 4. [To Higham-on-the-Hill (May)](#4)
 5. [To Paul's Ford and Burton Hastings (June)](#5)
