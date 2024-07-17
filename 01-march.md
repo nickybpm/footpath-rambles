@@ -2,7 +2,7 @@
 
 <figure>
     <img src="img/09.jpg" />
-    <figcaption>A Seventeenth Century House: The Hall, Sutton Cheney</figcaption>
+    <figcaption>A Seventeenth Century House: The Hall, Sutton Cheney.</figcaption>
 </figure>
 
 To go to sleep during a cheerless winter and then suddenly to wake up with the
